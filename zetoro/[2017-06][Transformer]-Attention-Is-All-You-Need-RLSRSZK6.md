@@ -3,7 +3,7 @@ tags: []
 parent: '[Transformer] Attention Is All You Need'
 collections:
     - 核心组件
-$version: 2251
+$version: 2262
 $libraryID: 1
 $itemKey: RLSRSZK6
 
